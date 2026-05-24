@@ -1,6 +1,6 @@
 RP2040 Wireless Mechanical Macro Pad for Windows and macOS This project turns a 4-key mechanical switch matrix and a standard rotary encoder into a high-performance USB macro pad and media controller. It functions as a native wired USB HID device to control shortcuts and volume across Windows, macOS, and Linux.
 //Features
-  - Works natively as a USB HID keyboard device—no custom software required.
+  - Works natively as a USB HID keyboard device, no custom software required.
   -  Anti-ghosting key matrix uses individual switching diodes to prevent current bleed and ensure full n-key rollover.
   -  Dedicated quadrature encoder integration provides smooth, real-time volume adjustment.Compact PCB design optimized for standard Cherry MX footprints and clean signal routing.
 //Hardware Required
